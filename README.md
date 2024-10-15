@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  GitHub Profile README Generator
+  GitHub Profile README Generators
 </h1>
 
 <p align="center">
